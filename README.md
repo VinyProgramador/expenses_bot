@@ -61,13 +61,13 @@ O deploy está automatizado com uso de `Procfile` e variáveis de ambiente via `
 ## 📁 Estrutura do Projeto
 
 
-expenses-bot/
-│
-├── app.py # Código principal com a lógica do bot e rotas Flask
-├── Procfile # Define o comando de execução no Railway
-├── requirements.txt # Dependências do projeto
-├── .env # Variáveis de ambiente (não subir no Git!)
-└── README.md # Este arquivo 
+## expenses-bot/
+### │
+### ├── app.py # Código principal com a lógica do bot e rotas Flask
+### ├── Procfile # Define o comando de execução no Railway
+### ├── requirements.txt # Dependências do projeto
+### ├── .env # Variáveis de ambiente (não subir no Git!)
+### └── README.md # Este arquivo ``
 
 
 ---
